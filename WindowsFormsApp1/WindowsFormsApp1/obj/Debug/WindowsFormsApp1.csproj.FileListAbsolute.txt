@@ -7,3 +7,13 @@ C:\Users\PKO\Desktop\дддззз\MenuClassWork\WindowsFormsApp1\WindowsFormsApp
 C:\Users\PKO\Desktop\дддззз\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
 C:\Users\PKO\Desktop\дддззз\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\PKO\Desktop\дддззз\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\teacher.STEP\Desktop\Надя\MenuClassWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
